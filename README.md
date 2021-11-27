@@ -9,3 +9,8 @@
 #### For smaller screens :
 
 ![Screenshot (78)](https://user-images.githubusercontent.com/85759426/143719507-3718e2fb-06bd-43dc-8765-3c9eeb16fcd4.png)
+
+#### Magic of minmax() on bigger screens to really make it responsive.
+
+
+![Screenshot (79)](https://user-images.githubusercontent.com/85759426/143721687-6888ef60-355b-47b2-8758-2d3d8ea16a17.png)
